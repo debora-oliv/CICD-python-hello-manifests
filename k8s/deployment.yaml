@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
         - name: hello-app
-          image: docker.io/hello-app-placeholder:latest
+          image: deboraalves/hello-app-python:a52d437
           ports:
             - containerPort: 8080
