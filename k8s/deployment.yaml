@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
         - name: hello-app
-          image: deboraalves/hello-app-python:46f0f86
+          image: deboraalves/hello-app-python:dee3b81
           ports:
             - containerPort: 80
